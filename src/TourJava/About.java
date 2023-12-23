@@ -44,7 +44,7 @@ public class About extends javax.swing.JDialog {
         img2.setBounds(20,100,150,150);
         this.add(img2);
         
-        l2=new JLabel("<html>This is a simple system for a travel agent. The agent has packages to take customers to such amazing countries as Myanmar, Japan, Brazil and French, with reasonable prices.</html>");
+        l2=new JLabel("<html>This is a simple system for a travel agent. The agent has packages to take customers to such amazing countries as Myanmar, Japan, Brazil, French, and Australia, with reasonable prices.</html>");
         l2.setFont(new Font("Trebuchet M3",Font.PLAIN,20));
         l2.setForeground(new Color(0,0,128));
         l2.setBounds(180,80,300,200);
