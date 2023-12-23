@@ -121,7 +121,7 @@ To run this project, it is essential to have the **NetBeans IDE** installed. Add
 1. Open up your terminal
 2. [Clone the repo in the Netbeans IDE](https://www.joe0.com/2018/02/16/how-to-cloning-github-project-into-netbeans/)
 3. Add two **.jar** files into **Libraries** folder
-4. Change ```DriverManager.getConnection()``` according to your MySQL login details
+4. Change ```DriverManager.getConnection()``` according to your **MySQL** login details
 5. Run **Main.java**
 
 ## Contributing
