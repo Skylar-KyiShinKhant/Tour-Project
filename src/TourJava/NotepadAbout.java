@@ -49,7 +49,7 @@ public class NotepadAbout extends javax.swing.JDialog {
         l2.setBounds(50,190,400,100);
         this.add(l2);
         
-        l3=new JLabel("<html>Creater : Skylar Khant</html>");
+        l3=new JLabel("<html>Creater : Skylar Kyi Shin Khant</html>");
         l3.setFont(new Font("Trebuchet M3",Font.PLAIN,15));
         l3.setForeground(new Color(215,0,64));
         l3.setBounds(60,320,200,30);

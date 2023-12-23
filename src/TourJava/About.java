@@ -50,10 +50,10 @@ public class About extends javax.swing.JDialog {
         l2.setBounds(180,80,300,200);
         this.add(l2);
         
-        l3=new JLabel("<html>Creater : Skylar Khant</html>");
+        l3=new JLabel("<html>Creater : Skylar Kyi Shin Khant</html>");
         l3.setFont(new Font("Trebuchet M3",Font.PLAIN,15));
         l3.setForeground(new Color(215,0,64));
-        l3.setBounds(40,310,150,30);
+        l3.setBounds(50,310,250,30);
         this.add(l3);
         
         b1=new JButton("OK");
