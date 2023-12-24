@@ -8,7 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class PackagesSlides extends javax.swing.JFrame implements Runnable{
 
