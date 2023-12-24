@@ -12,7 +12,7 @@ import java.text.*;
 import java.sql.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class CreateAndEditPackages extends javax.swing.JDialog implements ActionListener{
    
