@@ -9,7 +9,7 @@ import java.awt.event.*;
 import javax.swing.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class NotepadAbout extends javax.swing.JDialog {
 
