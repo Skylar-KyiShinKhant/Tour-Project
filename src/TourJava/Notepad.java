@@ -12,7 +12,7 @@ import java.io.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 /**
  *
- * @author steve
+ * @author skylar
  */
 
 

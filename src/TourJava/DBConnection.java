@@ -7,7 +7,7 @@ package TourJava;
 import java.sql.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class DBConnection {
     public static Connection getConnection(){

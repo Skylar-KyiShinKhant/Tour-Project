@@ -11,7 +11,7 @@ import javax.swing.border.*;
 import java.sql.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class LogIn extends javax.swing.JFrame implements ActionListener{
 

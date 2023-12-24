@@ -8,7 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class Splash {
     public static void main(String args[]){

@@ -9,7 +9,7 @@ import java.awt.*;
 import java.awt.event.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class Progress extends javax.swing.JFrame implements Runnable {
 

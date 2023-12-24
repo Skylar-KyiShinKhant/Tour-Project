@@ -11,7 +11,7 @@ import java.awt.event.*;
 import java.sql.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class SignUp extends javax.swing.JFrame implements ActionListener{
 

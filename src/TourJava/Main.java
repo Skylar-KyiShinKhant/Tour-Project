@@ -6,7 +6,7 @@
 package TourJava;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class Main {
 
