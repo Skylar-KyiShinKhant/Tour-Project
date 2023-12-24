@@ -10,7 +10,7 @@ import java.awt.*;
 import java.awt.event.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class Printer extends javax.swing.JDialog implements ActionListener {
 
