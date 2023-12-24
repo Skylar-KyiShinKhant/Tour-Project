@@ -16,7 +16,7 @@ import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class CreateAndEditPurchases extends javax.swing.JDialog implements ActionListener{
 
