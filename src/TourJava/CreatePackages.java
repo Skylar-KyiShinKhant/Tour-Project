@@ -15,7 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class CreatePackages extends javax.swing.JFrame implements ActionListener{
 
