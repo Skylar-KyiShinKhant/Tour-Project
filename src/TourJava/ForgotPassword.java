@@ -12,7 +12,7 @@ import java.sql.*;
 import javax.swing.event.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class ForgotPassword extends javax.swing.JFrame implements ActionListener {
 
