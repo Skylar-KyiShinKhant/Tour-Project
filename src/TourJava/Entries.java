@@ -11,7 +11,7 @@ import javax.swing.*;
 import javax.swing.border.*;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class Entries extends javax.swing.JFrame implements ActionListener, Runnable{
     
